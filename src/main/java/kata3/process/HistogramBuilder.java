@@ -1,4 +1,6 @@
-package kata3;
+package kata3.process;
+
+import kata3.model.Histogram;
 
 import static java.util.Arrays.stream;
 

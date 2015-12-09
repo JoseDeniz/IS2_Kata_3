@@ -1,4 +1,4 @@
-package kata3.process;
+package kata3.view.process;
 
 import kata3.model.Histogram;
 

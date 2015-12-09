@@ -1,7 +1,7 @@
 package kata3.application;
 
-import kata3.process.HistogramBuilder;
-import kata3.view.HistogramDisplay;
+import kata3.view.process.HistogramBuilder;
+import kata3.view.ui.HistogramDisplay;
 
 import java.io.IOException;
 import java.nio.file.Files;

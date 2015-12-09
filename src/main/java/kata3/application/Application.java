@@ -11,7 +11,7 @@ import java.util.stream.Stream;
 public class Application {
 
     public static void main(String[] args) {
-        new HistogramDisplay(new HistogramBuilder<String>().build(data()));
+        new HistogramDisplay(new HistogramBuilder<String>().build(data())).display();
     }
 
     private static String[] data() {
